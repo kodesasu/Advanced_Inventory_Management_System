@@ -1,6 +1,7 @@
 Hi There,
 This is my first official Repo, been coding for a while now and decided to start pushing to Github, which am extremly new at.
 This will enable me to track my Progress in the cloud and get the networking that i desperately need. Am excited to Learn.
+
 Anyhow, this is the real "Readme" if you are interested..
 
 Advanced Inventory Management System (AIMS)
@@ -30,6 +31,7 @@ Technical Stack:
 Installation & Usage
 - Clone the repository:
 git clone https://github.com/Kodesasu/Advanced_Inventory_Management_System.git
+
 cd Advanced_Inventory_Management_System
 
 - Run the application:
