@@ -32,7 +32,7 @@ Installation & Usage
 - Clone the repository:
 git clone https://github.com/Kodesasu/Advanced_Inventory_Management_System.git
 
-cd Advanced_Inventory_Management_System
+- cd Advanced_Inventory_Management_System
 
 - Run the application:
 python main.py
@@ -48,10 +48,10 @@ How it Works:
 - User Interface (UI) Layer: Manages the menu system and console interactions.
 
 Sample Analysis Output:
-- For example, when you select the "Display Product Analysis" option, the system provides: Total product count by category.
+- For example, when you select the "Display Product Analysis" option, the system provides:
+- Total product count by category.
+- Average stock levels per category.
+- Low-stock alerts (items with less than 10 units).
 
-i would Love your advise and critique, any feedback is good
+i would Love your advise and critique, any feedback is good.
 
-Average stock levels per category.
-
-Low-stock alerts (items with less than 10 units).
